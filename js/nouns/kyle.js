@@ -1,5 +1,13 @@
 nouns = nouns.concat([
     'man',
     'bear',
-    'pig'
+    'pig',
+    'Mermaid',
+    'Cupcake',
+    'Penguin',
+    'Dragonfly',
+    'Puppy',
+    'Bumblebee',
+    'Unicorn',
+    'Barbie'
 ]);
